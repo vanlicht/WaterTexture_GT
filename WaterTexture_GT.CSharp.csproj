@@ -69,6 +69,10 @@
     <Compile Include="Assets\ShaderForge\Example Assets\Scripts\SoftNormalsToVertexColor.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Assets\Shader\Gatu_DepthBlend.shader" />
+    <None Include="Assets\Shader\Gatu_VTXColorTerrain.shader" />
+    <None Include="Assets\Shader\Gatu_Water.shader" />
+    <None Include="Assets\Shader\Gatu_Water_Video.shader" />
     <None Include="Assets\Shader\WaterV01.shader" />
     <None Include="Assets\ShaderForge\Editor\InternalResources\GPU Rendering\Common\ExtractChannel.shader" />
     <None Include="Assets\ShaderForge\Editor\InternalResources\GPU Rendering\Common\FillColor.shader" />
